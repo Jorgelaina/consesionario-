@@ -1,0 +1,12 @@
+consesionario                   marca              modelo         version 
+
+auto: 
+marca 
+modelo
+version
+año
+precio
+kilometros 
+combustible
+puertas
+condicion 
